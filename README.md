@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mouncef</h1>
 <h3 align="center">A Backend Developer from Algeria.</h3>
-[![committers.top badge](https://user-badge.committers.top/algeria/USERNAME.svg)](https://user-badge.committers.top/algeria/MoonFuji)
+[![committers.top badge](https://user-badge.committers.top/algeria/MoonFuji.svg)](https://user-badge.committers.top/algeria/MoonFuji)
 
 - 🔭 I’m currently working on [Gostu](https://github.com/Student-s-Hub)
 
