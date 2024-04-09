@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Gostu](https://github.com/Student-s-Hub)
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Cyber Security** & **Machine Learning**
 
-- 📫 How to reach me **moncefmed31@gmail.com**
+- 📫 How to reach me : **moncefmed31@gmail.com**
 
 - ⚡ Fun fact **I am a better photographer than a programmer.**
 
