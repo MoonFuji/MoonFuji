@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moonfuji&show_icons=true&locale=en" alt="moonfuji" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raidouahioune&" alt="raidouahioune" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moonfuji&" alt="moonfuji" /></p>
 
