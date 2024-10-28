@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Gostu](https://github.com/Student-s-Hub)
 
-- 🌱 I’m currently learning **Cyber Security** & **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me : **moncefmed31@gmail.com**
 
