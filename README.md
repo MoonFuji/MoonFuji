@@ -5,13 +5,11 @@
 [![committers.top badge](https://user-badge.committers.top/algeria_private/MoonFuji.svg)](https://user-badge.committers.top/algeria_private/MoonFuji)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-- 🔭 I’m currently working on [Gostu](https://github.com/Student-s-Hub)
+- 🔭 I’m currently working on [Nroho](nroho.com)
 
 - 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me : **moncefmed31@gmail.com**
-
-- ⚡ Fun fact **I am a better photographer than a programmer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
