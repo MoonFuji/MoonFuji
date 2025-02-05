@@ -5,7 +5,7 @@
 [![committers.top badge](https://user-badge.committers.top/algeria_private/MoonFuji.svg)](https://user-badge.committers.top/algeria_private/MoonFuji)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-- 🔭 I’m currently working on [Nroho](nroho.com)
+- 🔭 I’m currently working on [Nroho](nroho.net)
 
 - 🌱 I’m currently learning **Deep Learning**
 
