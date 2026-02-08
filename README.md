@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mouncef</h1>
 <h3 align="center">A Backend Developer from Algeria.</h3>
 
-[![committers.top badge](https://user-badge.committers.top/algeria/MoonFuji.svg)](https://user-badge.committers.top/algeria/MoonFuji)
 [![committers.top badge](https://user-badge.committers.top/algeria_private/MoonFuji.svg)](https://user-badge.committers.top/algeria_private/MoonFuji)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
