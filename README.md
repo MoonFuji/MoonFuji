@@ -1,26 +1,48 @@
-<h1 align="center">Hi 👋, I'm Mouncef</h1>
-<h3 align="center">A Backend Developer from Algeria.</h3>
+# Hi, I'm Mouncef
 
-[![committers.top badge](https://user-badge.committers.top/algeria_private/MoonFuji.svg)](https://user-badge.committers.top/algeria_private/MoonFuji)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+Production-focused software engineer from Algeria, focused on backend systems, internal tooling, and mobile reliability.
 
-- 🔭 I’m currently working on [Nroho](https://www.nroho.net/)
+[![Top Contributors - Algeria](https://user-badge.committers.top/algeria_private/MoonFuji.svg)](https://user-badge.committers.top/algeria_private/MoonFuji)
 
-- 🌱 I’m currently learning **AI Agents**
+## What I'm currently building
 
-- 📫 How to reach me : **moncefmed31@gmail.com**
+- **[Nroho](https://www.nroho.net/)** - Co-Founder and Lead Engineer. Building and operating a production marketplace stack (Laravel, React/Inertia, MySQL, MongoDB, Redis, Docker, CI/CD) with geospatial matching and fraud-validation workflows.
+- **Dusens Research (remote)** - Building offline-first React Native survey infrastructure with SQLite durable outbox sync, idempotent APIs, and deterministic media upload pipelines.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kadri mohammed mouncef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadri mohammed mouncef" height="30" width="40" /></a>
-<a href="https://instagram.com/mo.on.86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mo.on.86" height="30" width="40" /></a>
-</p>
+## Selected work
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- **Nroho**
+  - Co-founded and engineered a production ride-sharing marketplace stack used by **~15,000 registered users**.
+  - Designed geospatial matching and fraud-validation workflows (OSRM + backend validation) to protect pricing and trip integrity.
+  - Operated a 4-priority queue architecture (critical/high/default/low) for low-latency critical events and safe async workload isolation.
+  - Built internal operations tooling for KYC, rides, wallets, and dispute handling, reducing manual operational load.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moonfuji&show_icons=true&locale=en&layout=compact" alt="moonfuji" /></p>
+- **Gostu DZ**
+  - Re-architected backend hot paths and reduced API latency by **95%** (**800ms -> 45ms**) via SQL audits, N+1 elimination, and Redis caching.
+  - Built CI/CD and deployment automation to make releases repeatable and reduce operational risk.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moonfuji&show_icons=true&locale=en" alt="moonfuji" /></p>
+- **Custom E-Commerce Platforms**
+  - Built and launched two serverless e-commerce platforms end-to-end (catalog, checkout, order tracking, admin operations).
+  - Engineered an AWS Lambda@Edge + S3 image delivery pipeline that cut delivery/storage costs by **~60%** while keeping high availability.
+  - Implemented inventory/order lifecycle admin dashboards and cache-controlled CDN delivery for cost-efficient scale.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moonfuji&" alt="moonfuji" /></p>
+- **Eazzy Education (LMS)**
+  - Built secure device-aware API authentication (Laravel Sanctum) and adaptive streaming workflows (FFmpeg/HLS) for production learning content.
+  - Delivered backend modules for enrollment, progress tracking, and instructor workflows used in live operations.
+
+## Technical focus
+
+- **Backend & APIs:** Laravel, PHP, MySQL, PostgreSQL, Redis, REST, queue architectures
+- **Mobile:** React Native, offline-first sync systems, deterministic upload pipelines
+- **DevOps:** Docker, GitHub Actions, Linux VPS, Nginx, production observability
+- **AI/Data work:** Python, PyTorch/TensorFlow, RAG and LLM integrations for product features
+
+## GitHub snapshot
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=moonfuji&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonfuji&show_icons=true&locale=en)
+
+## Contact
+
+- Email: **moncefmed31@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/kadri-mohammed-mouncef-17a506230/
