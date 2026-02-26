@@ -6,7 +6,7 @@ Production-focused software engineer from Algeria, focused on backend systems, i
 
 ## What I'm currently building
 
-- **[Nroho](https://www.nroho.net/)** - Co-Founder and Lead Engineer. Building and operating a production marketplace stack (Laravel, React/Inertia, MySQL, MongoDB, Redis, Docker, CI/CD) with geospatial matching and fraud-validation workflows.
+- **[Nroho](https://www.nroho.net/)** - Co-Founder and Lead Engineer. Building and operating a production marketplace stack (Laravel, React/Inertia, MongoDB, Redis, Docker, CI/CD) with geospatial matching and fraud-validation workflows.
 - **Dusens Research (remote)** - Building offline-first React Native survey infrastructure with SQLite durable outbox sync, idempotent APIs, and deterministic media upload pipelines.
 
 ## Selected work
