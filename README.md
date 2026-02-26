@@ -39,11 +39,11 @@ Production-focused software engineer from Algeria, focused on backend systems, i
 
 ## GitHub snapshot
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moonfuji&layout=compact&hide=jupyter%20notebook&langs_count=8)](https://github.com/moonfuji)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moonfuji&theme=github&exclude=jupyter%20Notebook)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonfuji&show_icons=true)](https://github.com/moonfuji)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moonfuji&theme=github)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=moonfuji)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=moonfuji)
 
 ## Contact
 
