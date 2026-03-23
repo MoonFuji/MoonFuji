@@ -43,7 +43,7 @@ Production-focused software engineer from Algeria, focused on backend systems, i
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moonfuji&theme=github)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=moonfuji)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MoonFuji&theme=blue-green&hide_border=true&border_radius=30.6&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## Contact
 
