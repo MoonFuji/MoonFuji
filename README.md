@@ -41,7 +41,7 @@ Production-focused software engineer from Algeria, focused on backend systems, i
 
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoonFuji&theme=apprentice) 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MoonFuji&theme=apprentice&border_radius=30&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MoonFuji&theme=apprentice&border_radius=30&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Contact
 
