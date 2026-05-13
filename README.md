@@ -1,12 +1,12 @@
 # Hi, I'm Mouncef
 
-Production-focused software engineer from Algeria, focused on backend systems, audit-safe internal tooling, mobile reliability, and applied AI systems.
+Production-focused software engineer from Algeria, focused on backend platforms, audit-safe internal tooling, tenant-scoped APIs, mobile reliability, and applied AI systems.
 
 [![Top Contributors - Algeria](https://user-badge.committers.top/algeria_private/MoonFuji.svg)](https://user-badge.committers.top/algeria_private/MoonFuji)
 
 ## What I'm currently building
 
-- **Follosoft (remote, Core Platform)** - Mid-Level Backend Engineer working on billing automation, invoicing workflows, audit-safe admin tooling, OpenAPI-documented endpoints, and production reliability.
+- **Follosoft (remote, Core Platform)** - Mid-Level Backend Engineer working on billing integrity, audit-safe admin tooling, tenant-scoped JSON:API/OpenAPI surfaces, CRM/client data workflows, product/catalog APIs, and production reliability.
 - **Algerian Space Agency / ENSIA thesis** - Building an ASAL/ALSAT-inspired satellite mission scheduling simulation with constrained optimization, adaptive repair, and masked reinforcement learning.
 - **Dusens Research (remote, part-time)** - Building offline-first React Native survey infrastructure with SQLite durable outbox sync, idempotent APIs, multilingual UX, and deterministic media upload pipelines.
 
@@ -19,9 +19,10 @@ Production-focused software engineer from Algeria, focused on backend systems, a
   - Built internal operations tooling for KYC, rides, wallets, and dispute handling, reducing manual operational load.
 
 - **Follosoft Core Platform**
-  - Shipped billing automation with safeguards against duplicate charges, invalid scheduling, and silent failures.
-  - Built audit-safe admin repair tooling with dry-run mode, per-account scoping, and operational guardrails.
-  - Added bilingual French/English admin surfaces and actor-attributed operational alerts for reviewable billing workflows.
+  - Protected billing and invoicing workflows with automated charging safeguards, invoice-data repair tooling, refund/license validation, and operational visibility for support/admin teams.
+  - Built tenant-scoped JSON:API and OpenAPI-documented backend surfaces for CRM-style client management, labels, locations, contacts, and account-level product/catalog data.
+  - Built audit-safe Filament admin workflows with dry-run-first repair behavior, per-account scoping, authorization checks, bilingual French/English surfaces, and actor-attributed operational alerts.
+  - Improved platform reliability through test-suite cleanup, stricter setup patterns, flaky-pattern removal, and stronger regression coverage around billing, admin, and API workflows.
 
 - **Gostu DZ**
   - Re-architected backend hot paths and reduced API latency by **95%** (**800ms -> 45ms**) via SQL audits, N+1 elimination, and Redis caching.
@@ -38,8 +39,8 @@ Production-focused software engineer from Algeria, focused on backend systems, a
 
 ## Technical focus
 
-- **Backend & APIs:** Laravel, PHP, MySQL, PostgreSQL, Redis, REST, queue architectures
-- **Platform & admin tooling:** Filament, OpenAPI, audit-safe workflows, billing operations, actor-attributed alerts
+- **Backend & APIs:** Laravel, PHP, MySQL, PostgreSQL, Redis, REST, JSON:API, tenant-scoped API design, queue architectures
+- **Platform & admin tooling:** Filament, OpenAPI, audit-safe workflows, billing operations, actor-attributed alerts, internal operations systems
 - **Mobile:** React Native, offline-first sync systems, deterministic upload pipelines
 - **DevOps:** Docker, GitHub Actions, Linux VPS, Nginx, production observability
 - **AI/Data work:** Python, PyTorch/TensorFlow, RAG, LLM integrations, geospatial AI, constrained optimization, reinforcement learning
